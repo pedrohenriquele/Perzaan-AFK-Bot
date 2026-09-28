@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "SURVIVAL-AFTER-DEATH.aternos.me",
+    "port": 38450,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
